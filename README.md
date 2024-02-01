@@ -21,7 +21,7 @@ In this analysis we perform very simple and easy analysis on botulism dataset.
 This dataset can be taken from Data.GOV site:
 https://catalog.data.gov/dataset/botulism/resource/ea1c4365-3ce4-454d-856b-70bf07b3ba2d
 
-This dataset is analyzed in excel and consist of three sheets:
+This dataset is analyzed in excel and consist of three excel sheets each performing separate tasks:
 1. Raw [Raw Sheet consist the data in its raw format]
 2. Clean [Cleaning improper naming sequences, blanks, creating table]
 3. Analysis [Creating pivot tables to answer questions]
